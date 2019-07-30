@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to enable ASPxHtmlEditor fullscreen mode on page startup
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e20062)**
+**[[Run Online]](https://codecentral.devexpress.com/e20062/)**
 <!-- run online end -->
 
 
